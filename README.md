@@ -1,12 +1,21 @@
 # DevOps
 
-## 1. Linux
+## Linux
 
 ### File Management Commands
+#### List files
+```
+Command: ls
+Options: -l = List Files
+         -t = Time
+         -r = Reverse Order
 
-### File Permission Commands
 
-### User management Commands
+```
+
+###   * File Permission Commands
+
+###   * User management Commands
 
 
 
