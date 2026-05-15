@@ -1,7 +1,7 @@
 
 *BASH Script*
 
-<pre style="background-color: black; color: white; padding: 20px; border-radius: 5px;">
+<pre style="background-color: black; padding: 20px; border-radius: 5px;">
 <code>
  
 #!/bin/bash
